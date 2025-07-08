@@ -1,6 +1,3 @@
-Sure! Here's a professional and engaging `README.md` template for your **CricCast** project on GitHub:
-
----
 
 # 🏏 CricCast – Cricket Match Prediction & Analysis System
 
